@@ -968,6 +968,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 
 - **Data Site**
     - [Citi Bike Trip Histories](https://www.citibikenyc.com/system-data)
+    - [Crime Brasil](https://crimebrasil.com.br) - Brazilian crime incidents geocoded by neighborhood (RS, 2.99M records) and municipality (MG, RJ) with free REST API.
     - [Geofabrik](http://download.geofabrik.de/)
     - [Geo Maps](https://github.com/simonepri/geo-maps) - High Quality GeoJSON maps programmatically generated.
     - [Global cities Shapefile data](http://download.bbbike.org/osm/bbbike/)
