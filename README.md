@@ -452,7 +452,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [react-map-gl](https://github.com/uber/react-map-gl) - React friendly API wrapper around MapboxGL JS.
 - [Spatial](https://github.com/troufster/spatial) - A 2d spatial hash module for node.js.
 - [Supercluster](https://github.com/mapbox/supercluster) - A crazy fast geospatial point clustering library for browsers and Node.
-- [SuperMap iClient for JavaScript](http://iclient.supermap.io) - Cloud GIS web client development platform supportted by SuperMap.
+- [SuperMap iClient for JavaScript](http://iclient.supermap.io) - Cloud GIS web client development platform supported by SuperMap.
 - [SQLite3](https://github.com/mapbox/node-sqlite3) - Asynchronous, non-blocking SQLite3 bindings for Node.js.
 - [Thermo.js](https://github.com/dazuma/thermo.js) - Another heatmap implementation for Javascript.
 - [tilegarden](https://github.com/azavea/tilegarden) - Serverless raster and vector map tile generation using Mapnik and AWS Lambda.
