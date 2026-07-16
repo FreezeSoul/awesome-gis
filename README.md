@@ -931,7 +931,6 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [citytracking](http://citytracking.org/) - A two-year project, to change the way people view, talk about, utilize digital city services
 - [Equator Studios](https://equatorstudios.com/) - All-in-one cloud-based GIS mapping solution featuring millions of built-in data sources and AutoCAD export.
 - [GeoSlicing](https://geoslicing.com/) - Web-based GIS platform for parcel analysis, land research, and spatial intelligence. Upload data in multiple formats (CSV, GeoJSON, Shapefile, KML, GeoPackage), perform AI-powered analysis, and generate professional PDF reports.
-- [Zornade](https://app.zornade.com) - Italian cadastral parcel intelligence platform aggregating 15+ public data sources (hydrogeological risk, real estate prices, demographics) into a per-parcel profile covering 85 million cadastral parcels, with a free REST API.
 - [Geodocs](https://geodocs.io/) - GIS-powered project management platform for construction and infrastructure with geospatial file uploads (KML, KMZ, Shapefile, GeoJSON), MVT vector tiles, dynamic forms, and field data collection.
 - [Factual]( https://www.factual.com/) - A company provides the best location data for mobile advertising, mobile apps, and enterprise solutions.
 - [GeoHey](https://geohey.com) - A geographic online one-stop solution (Chinese)
@@ -946,6 +945,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [stamen](http://stamen.com/) - Data visualization to tell compelling stories for some of the world's most visible companies
 - [Unearth](https://unearthlabs.com/) - A simple, cloud-based GIS mapping platform designed for data and workflow management.
 - [worldmap](http://worldmap.harvard.edu/) - Building your own mapping portal and publish it to the world
+- [Zornade](https://app.zornade.com) - Italian cadastral parcel intelligence platform aggregating 15+ public data sources (hydrogeological risk, real estate prices, demographics) into a per-parcel profile covering 85 million cadastral parcels, with a free REST API.
 - [地图慧](http://www.dituhui.com/) - A self-designed map server for customs (Chinese)
 - [亿景智图](https://zt.changjing.com.cn/) - An enterprise-level map service (Chinese)
 
