@@ -1028,6 +1028,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [dougmccune](http://dougmccune.com/blog/)
 - [finemapping](http://www.finemapping.com/)
 - [flowingdata](http://flowingdata.com/)
+- [knowground](https://www.knowground.com) - Free per-address lookup of US civic and environmental facts (FEMA flood zone, elevation, public schools, EPA hazards, broadband, Census), each value sourced and dated.
 - [Maps of the Year](http://homepage.ntlworld.com/keir.clarke/mapsoftheyear.htm)
 - [mapzilla](https://mapzilla.co.uk/)
 - [NC STATE UNIVERSITY Center for Geospatial Analytics](https://cnr.ncsu.edu/geospatial/)
