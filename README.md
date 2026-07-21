@@ -988,6 +988,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [NYC Taxi & Limousine Commission - Trip Record Data](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml)
     - [OpenFlights: Airport and airline data](http://openflights.org/data.html)
     - [Open Street Map](https://www.openstreetmap.org/) - A map of the world, created by people like you and free to use under an open license.
+    - [Road511](https://road511.com) - Real-time traffic data API aggregating 511 systems from 65 US states and Canadian provinces (events, cameras, bridges, truck routes, GeoJSON-native).
     - [pm2.5-China](http://www.pm25.in/)
     - [T-Drive trajectory data sample](http://research.microsoft.com/apps/pubs/default.aspx?id=152883)
     - [USGS Remote Sensing Image](http://earthexplorer.usgs.gov/)
