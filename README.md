@@ -564,6 +564,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [geojson-shave](https://github.com/ben-nour/geojson-shave) - a Python command-line tool for reducing the size of GeoJSON files.
 - [GeoPandas](https://github.com/geopandas/geopandas) - Python tools for geographic data
 - [Geopatra](https://github.com/Sangarshanan/geopatra) - Create interactive maps with geopandas
+- [GeoSQL](https://github.com/dekart-xyz/geosql) - Claude/Codex skill (Python package) for cost-safe geospatial SQL on BigQuery and Snowflake. Renders interactive maps automatically.
 - [geopy](https://github.com/geopy/geopy) - geopy is a Python 2 and 3 client for several popular geocoding web services.
 - [geoserver-rest](https://pypi.org/project/geoserver-rest/) - The geoserver-rest package is useful for the management for geospatial data in GeoServer. The package is useful for the creating, updating and deleting geoserver workspaces, stores, layers, and style files.
 - [geosnap](https://github.com/spatialucr/geosnap) - geosnap makes it easier to explore, model, analyze, and visualize the social and spatial dynamics of neighborhoods.
