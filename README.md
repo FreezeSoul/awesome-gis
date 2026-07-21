@@ -121,6 +121,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [DEM Net Elevation API](https://elevationapi.com) - 3D terrain model generation online from open data (DEM, OSM) and imagery, exports to STL and glTF.
 - [Earth Enterprise](https://github.com/google/earthenterprise) - the open source release of Google Earth Enterprise, a geospatial application which provides the ability to build and host custom 3D globes and 2D maps.
 - [Google Earth](http://earth.google.com/) - A computer program that renders a 3D representation of Earth based on satellite imagery.
+- [halfmaps](https://www.halfmaps.io/) - 3D map exporter that converts real-world geospatial data into models for CAD, GIS, and 3D workflows, with export formats like GLTF, OBJ, STL, and 3MF.
 - [Skyline](http://www.skylineglobe.com/SkylineGlobe/corporate/Default.aspx?) - 3D desktop and web-based applications, enabling an enterprise to build, edit, navigate, query, and analyze realistic 3D environments.
 - [World Wind](http://worldwind.arc.nasa.gov/java/) -  An SDK (software development kit) that software engineers can use to build their own applications
 - [LAStools](https://rapidlasso.de/product-overview/) -  A collection of 52 highly efficient, batch-scriptable, multicore command-line tools for processing point clouds. The tools can also be run via a native GUI (laslook) and are available as toolboxes (QGIS, ArcGIS Pro, FME, Erdas)
@@ -239,6 +240,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [robosat](https://github.com/mapbox/robosat) - Semantic segmentation on aerial and satellite imagery.
 - [Solaris](https://github.com/CosmiQ/solaris) - CosmiQ Works Geospatial Machine Learning Analysis Toolkit.
 - [YOLT](https://github.com/avanetten/yolt) - You Only Look Twice: Rapid Multi-Scale Object Detection In Satellite Imagery.
+- [aviary](https://github.com/geospaitial-lab/aviary) - Pythonic Framework for AI Inference on Geospatial Data.
 
 ### Deep Learning Datasets
 - [awesome-remote-sensing-change-detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) - List of datasets, codes, researchers and contests related to remote sensing change detection.
@@ -464,6 +466,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [vue-cesium](https://github.com/zouyaoji/vue-cesium) - A Vue 2.x & Vue 3.x based component library of CesiumJS for GISer.
 - [VueMapbox](https://github.com/soal/vue-mapbox/) - Vue 2 components for interacting with Mapbox GL JS
 - [Windshaft](https://github.com/CartoDB/Windshaft) - A Node.js map tile library for PostGIS and torque.js, with CartoCSS styling.
+- [CoordinateMapper](https://coordinatemapper.com/) - Free browser-based tool for converting between lat/long, UTM, UK Grid References, Easting/Northing, MGRS, DMS and DDM. Includes map preview and CSV/KML/DXF export.
 
 ### Julia
 - [ArchGDAL](https://github.com/yeesian/ArchGDAL.jl) - Vector and Raster interfaces.
@@ -929,6 +932,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [citytracking](http://citytracking.org/) - A two-year project, to change the way people view, talk about, utilize digital city services
 - [Equator Studios](https://equatorstudios.com/) - All-in-one cloud-based GIS mapping solution featuring millions of built-in data sources and AutoCAD export.
 - [GeoSlicing](https://geoslicing.com/) - Web-based GIS platform for parcel analysis, land research, and spatial intelligence. Upload data in multiple formats (CSV, GeoJSON, Shapefile, KML, GeoPackage), perform AI-powered analysis, and generate professional PDF reports.
+- [Geodocs](https://geodocs.io/) - GIS-powered project management platform for construction and infrastructure with geospatial file uploads (KML, KMZ, Shapefile, GeoJSON), MVT vector tiles, dynamic forms, and field data collection.
 - [Factual]( https://www.factual.com/) - A company provides the best location data for mobile advertising, mobile apps, and enterprise solutions.
 - [GeoHey](https://geohey.com) - A geographic online one-stop solution (Chinese)
 - [GeoQ](http://www.geoq.cn/) - A location intelligence platform (Chinese)
@@ -937,10 +941,14 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Magrit](http://magrit.cnrs.fr/) - Thematic cartography, free and open-source.
 - [MapAtlas](https://mapatlas.eu/) - A mapping API platform providing geocoding, routing, isochrone, vector tiles, and GeoEnrich services built on OpenStreetMap data.
 - [Mapbox](https://www.mapbox.com/) - Helping you design your own map and presenting your data
+- [MapPoster](https://www.mapposter.xyz/) - Design custom artistic city maps with markers and routes.
 - [NextGIS](http://nextgis.com/) - A cloud geospatial service that allows you to create web GIS right in the browser
+- [PixelGust](https://pixelgust.com/) - A web-based geospatial analysis platform providing 30m terrain data, climate risk assessment, NDVI time series, and environmental reports for any location.
+- [Phantom Tide](https://github.com/tg12/phantomtide) - Real-time geospatial intelligence platform for maritime and airspace monitoring, combining vessel tracking, ADS-B flight activity, official notices, environmental context, and satellite detections in a single live map workflow.
 - [stamen](http://stamen.com/) - Data visualization to tell compelling stories for some of the world's most visible companies
 - [Unearth](https://unearthlabs.com/) - A simple, cloud-based GIS mapping platform designed for data and workflow management.
 - [worldmap](http://worldmap.harvard.edu/) - Building your own mapping portal and publish it to the world
+- [Zornade](https://app.zornade.com) - Italian cadastral parcel intelligence platform aggregating 15+ public data sources (hydrogeological risk, real estate prices, demographics) into a per-parcel profile covering 85 million cadastral parcels, with a free REST API.
 - [地图慧](http://www.dituhui.com/) - A self-designed map server for customs (Chinese)
 - [亿景智图](https://zt.changjing.com.cn/) - An enterprise-level map service (Chinese)
 
@@ -980,12 +988,14 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [NYC Taxi & Limousine Commission - Trip Record Data](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml)
     - [OpenFlights: Airport and airline data](http://openflights.org/data.html)
     - [Open Street Map](https://www.openstreetmap.org/) - A map of the world, created by people like you and free to use under an open license.
+    - [Road511](https://road511.com) - Real-time traffic data API aggregating 511 systems from 65 US states and Canadian provinces (events, cameras, bridges, truck routes, GeoJSON-native).
     - [pm2.5-China](http://www.pm25.in/)
     - [T-Drive trajectory data sample](http://research.microsoft.com/apps/pubs/default.aspx?id=152883)
     - [USGS Remote Sensing Image](http://earthexplorer.usgs.gov/)
     - [WorldPop](http://www.worldpop.org.uk/)
     - [Citi Bike Trip Histories](https://www.citibikenyc.com/system-data)
     - [Crime Brasil](https://crimebrasil.com.br) - Brazilian crime incidents geocoded by neighborhood (RS, 2.99M records) and municipality (MG, RJ) with free REST API.
+    - [ZipCheckup](https://zipcheckup.com/) - Free ZIP-level environmental data platform with 17 verticals (water quality, air quality, PFAS, radon, flood risk) for 42K US ZIP codes. Public API, CC BY 4.0.
 
 ## News Sites
 - [canadiangis](http://canadiangis.com/)
@@ -1025,6 +1035,8 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [dougmccune](http://dougmccune.com/blog/)
 - [finemapping](http://www.finemapping.com/)
 - [flowingdata](http://flowingdata.com/)
+- [Japan Neighborhoods Crime Map](https://japanneighborhoods.com/guides/tokyo-crime-map) - Interactive Leaflet crime safety map of 5,078 Tokyo neighborhoods, color-coded by safety grade (A+ to F), sourced from Tokyo Metropolitan Police open data (2018-2024).
+- [knowground](https://www.knowground.com) - Free per-address lookup of US civic and environmental facts (FEMA flood zone, elevation, public schools, EPA hazards, broadband, Census), each value sourced and dated.
 - [Maps of the Year](http://homepage.ntlworld.com/keir.clarke/mapsoftheyear.htm)
 - [mapzilla](https://mapzilla.co.uk/)
 - [NC STATE UNIVERSITY Center for Geospatial Analytics](https://cnr.ncsu.edu/geospatial/)
