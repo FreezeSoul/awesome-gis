@@ -466,6 +466,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [vue-cesium](https://github.com/zouyaoji/vue-cesium) - A Vue 2.x & Vue 3.x based component library of CesiumJS for GISer.
 - [VueMapbox](https://github.com/soal/vue-mapbox/) - Vue 2 components for interacting with Mapbox GL JS
 - [Windshaft](https://github.com/CartoDB/Windshaft) - A Node.js map tile library for PostGIS and torque.js, with CartoCSS styling.
+- [CoordinateMapper](https://coordinatemapper.com/) - Free browser-based tool for converting between lat/long, UTM, UK Grid References, Easting/Northing, MGRS, DMS and DDM. Includes map preview and CSV/KML/DXF export.
 
 ### Julia
 - [ArchGDAL](https://github.com/yeesian/ArchGDAL.jl) - Vector and Raster interfaces.
